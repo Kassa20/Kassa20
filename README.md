@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! 
 
 <!--
 **Kassa20/Kassa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently expanding my knowledge by working on different projects.
+    
+⚡ Fun fact: I run cross-country and track for my school 
+
+📫 How to reach me: Yohannes.Kassa@trojans.dsu.edu
