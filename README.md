@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently expanding my knowledge by working on different projects.
+🔭 All repos have detailed descriptions and comments, enjoy!
     
 ⚡ Fun fact: I run cross-country and track for my school 
 
-📫 How to reach me: Yohannes.Kassa@trojans.dsu.edu
+📫 reach me at : Yohannes.Kassa@trojans.dsu.edu
 
 
 
