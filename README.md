@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 All repos have detailed descriptions and comments, enjoy!
+### All repos have detailed descriptions and comments, enjoy!
     
 ⚡ Fun fact: I run cross-country and track for my school 
 
