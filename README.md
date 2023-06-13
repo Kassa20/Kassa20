@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ### All repos have detailed descriptions and comments, enjoy!
     
-⚡ Fun fact: I run cross-country and track for my school 
-
 📫 reach me at : Yohannes.Kassa@trojans.dsu.edu
 
 
