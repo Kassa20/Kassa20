@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### All repos have detailed descriptions and comments, enjoy!
     
 📫 reach me at : Yohannes.Kassa@trojans.dsu.edu
-my leetcode: https://leetcode.com/nececcarynerd20/
 
 
 
