@@ -1,13 +1,13 @@
 ### Hey! 
 
-<!--
+
 **Kassa20/Kassa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
 ### All repos have detailed descriptions and comments, enjoy!
     
-📫 reach me at : Yohannes.Kassa@trojans.dsu.edu
+ 📫 reach me at: Yohannes.Kassa@trojans.dsu.edu
 
 
 
