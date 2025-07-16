@@ -1,10 +1,6 @@
 ### Hey! 
 
 
-**Kassa20/Kassa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 ### All repos have detailed descriptions and comments, enjoy!
     
  📫 reach me at: ykassa1@seattleu.edu
