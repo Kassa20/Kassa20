@@ -7,7 +7,7 @@
 
 ### All repos have detailed descriptions and comments, enjoy!
     
- 📫 reach me at: Yohannes.Kassa@trojans.dsu.edu
+ 📫 reach me at: ykassa1@seattleu.edu
 
 
 
