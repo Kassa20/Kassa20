@@ -17,7 +17,7 @@
 ## Connect
 
 - Email — Ykassa1@seattleu.edu
-- LinkedIn — https://linkedin.com/in/YOUR_LINKEDIN
+- LinkedIn — https://www.linkedin.com/in/yohannes-kassa-b07343204/
 - Portfolio - https://personal-website-five-tawny-94.vercel.app/ 
 
 *Member, AWS Cloud Club*
