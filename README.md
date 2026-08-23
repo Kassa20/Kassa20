@@ -1,4 +1,4 @@
-# Yohanis Kassa
+# Yohannes Kassa
 
 **MS Computer Science @ Seattle University** (2025–2027) · **BS Computer Science @ Dakota State University** (GPA 3.8)
 
