@@ -10,7 +10,7 @@
 
 **Frameworks & Libraries** — React, Node.js, Spring Boot, LangChain
 
-**Data & Infrastructure** — K8S, Docker, gRPC, GCP, AWS, PostgreSQL, MySQL, MongoDB, Vector DB, Git
+**Data & Infrastructure** — K8S, Docker, gRPC, GCP, AWS, SQL, MongoDB, Vector DB, Git, terraform
 
 ---
 
