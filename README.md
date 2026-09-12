@@ -6,7 +6,7 @@
 
 ## What I work with
 
-**Languages** — TypeScript / JavaScript, C#, Java, Python, GoLang
+**Languages** — TypeScript / JavaScript, C#, Java, Python, Go
 
 **Frameworks & Libraries** — React, Node.js, Spring Boot, LangChain
 
